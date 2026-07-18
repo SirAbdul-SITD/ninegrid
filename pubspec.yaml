@@ -1,0 +1,28 @@
+name: ninegrid
+description: A classic Sudoku puzzle. The classic, done right.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  audioplayers: ^6.0.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/puzzles.json
+    - assets/audio/
+    - assets/icon.png
+    - assets/feature_graphic.png

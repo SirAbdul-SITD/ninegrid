@@ -1,0 +1,48 @@
+NINEGRID — Google Play Store Listing
+tjsocials.name.ng/games/ninegrid_privacy_policy.html
+
+=====================================
+
+App name:
+  Ninegrid — Classic Sudoku
+
+Short description (max 80 chars):
+  The classic, done right. 150 hand-verified puzzles, one solution each.
+
+Full description:
+---------------------------------------------------------------
+Ninegrid is Sudoku, the way it should be: no ads interrupting your focus,
+no ambiguous puzzles, just clean logic from the first cell to the last.
+
+Fill the 9×9 grid so every row, column, and 3×3 box contains 1 through 9
+exactly once. Tap a cell to select it — its row, column, and box highlight
+automatically — then tap a number to place it.
+
+Every puzzle has been checked by a real solver to guarantee a single,
+logical solution. No guessing, ever.
+
+FEATURES
+• 150 hand-verified puzzles across three difficulties
+   – Gentle (~38 givens), Classic (~30 givens), Sharp (~25 givens)
+• Guaranteed unique solution on every board — solvable by logic alone
+• Row/column/box highlighting for the selected cell
+• Simple number-pad entry, no fiddly typing
+• Live conflict detection across rows, columns, and boxes
+• Earn up to three stars per puzzle for efficient solving
+• Calm graphite-and-jade visuals, easy on the eyes for long sessions
+• Gentle ambient soundtrack and tactile feedback — both toggleable
+• Fully offline. No ads, no accounts, no tracking. Progress stays on your
+  device.
+
+The classic, done right.
+
+Category: Puzzle
+Content rating: Everyone
+Tags: sudoku, logic puzzle, number puzzle, brain teaser, offline, no ads
+---------------------------------------------------------------
+
+ASSETS INCLUDED
+  - assets/icon.png            (512x512 app icon)
+  - assets/feature_graphic.png (1024x500 feature graphic)
+  - screens/                   (5 Play Store screenshots, 1080x1920)
+  - PRIVACY_POLICY.html        (host this and link it in the listing)
